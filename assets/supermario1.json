@@ -1,0 +1,12 @@
+{ "columns":3,
+ "image":"super_mario_tiles.png",
+ "imageheight":112,
+ "imagewidth":48,
+ "margin":0,
+ "name":"tiles",
+ "spacing":0,
+ "tilecount":0,
+ "tileheight":16,
+ "tilewidth":16,
+ "type":"tileset"
+}
